@@ -4,7 +4,13 @@ sathimantha:
     linkedin: https://www.linkedin.com/in/sathimantha/
     facebook: https://www.facebook.com/sathimantha/
     github: https://github.com/Sathimantha
-    bio: Sathimantha Malalasekera is a qualified Manager, Engineer and laser focused QLA disciple.
-    image: /assets/img/authors/sathimantha.jpeg
+    bio: "Sathimantha Malalasekera."
+    image: "/assets/img/authors/sathimantha.jpeg"
 
 
+ruk:
+    name: Ruk Rakaganno
+    email: {{site.data.siteVars.email}}
+    facebook: {{site.data.siteVars.facebookPage}}
+    bio: "Ruk Rakaganno is a volunteer based, non-governmental organization founded in 1975 implementing hands-on projects to conserve nature and advocate to protect and conserve the environment."
+    image: "/assets/img/authors/ruk-logo.png"

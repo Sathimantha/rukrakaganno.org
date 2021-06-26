@@ -6,10 +6,12 @@
                 <div class="col-md-8 text-left">
                     <div class="topbar-list">
                         <div class="single-topbar">
-                            <p> <span class="fa fa-map-marker"></span> Cenfracee Private Limited, Moratuwa, Sri Lanka</p>
+                            <p> <span class="fa fa-map-marker"></span>
+                                {{site.data.siteVars.addressLine1}}, {{site.data.siteVars.addressLine2}}, {{site.data.siteVars.addressLine3}}
+                            </p>
                         </div>
                         <div class="single-topbar">
-                            <p> <span class="fa fa-envelope"></span> info@cenfracee.lk</p>
+                            <p> <span class="fa fa-envelope"></span> {{site.data.siteVars.email}}</p>
                         </div>
                     </div>
                 </div>
@@ -30,7 +32,7 @@
                     </div>
                 </div>
                 <div class="col-md-8">
-                  {% include navigation.html %}
+                    {% include navigation.html %}
                 </div>
             </div>
         </div>
