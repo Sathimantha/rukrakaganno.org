@@ -8,7 +8,7 @@
 .search-form i {
     line-height: 57px;
     font-weight: 700;
-    color: #000531;
+    color: #1b2e10;
     width: 50px;
     cursor: pointer;
 }
@@ -102,11 +102,11 @@ section.third-services.section-padding {
 }
 
 .recent-wrok-slider ul.slick-dots li button {
-    background: #000531;
+    background: #1b2e10;
 }
 
 .recent-wrok-slider ul.slick-dots li.slick-active button {
-    background: #ffa100;
+    background: #589632;
 }
 
 .margin-top0{

@@ -41,10 +41,10 @@ h2.sub-title {
     text-transform: capitalize;
     width: 160px;
     margin-right: 10px;
-    color: #000d33;
+    color: #ffffff;
     font-weight: 600;
     height: 50px;
-    border-radius: 50px;
+    border-radius: 10px;
 }
 a.btn.btn-default.button-primary.btn-dark {
     background: #000531;
@@ -83,9 +83,9 @@ a.button-secondary.btn.btn-default:hover {
 }
 
 a.btn.btn-default.button-primary:hover {
-    background: #000531;
+    background: #2a4718;
     color: #fff;
-    border-color: #000531
+    border-color: #2a4718
 }
 
 
@@ -177,8 +177,8 @@ a.btn.btn-default.button-primary:hover {
 }
 
 a.btn.btn-default.button-primary {
-    background: #ffb400;
-    border: 1px solid #ffb400;
+    background: #589632;
+    border: 1px solid #589632;
 }
 
 a.button-secondary.btn.btn-default {

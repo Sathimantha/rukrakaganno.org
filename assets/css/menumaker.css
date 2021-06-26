@@ -63,15 +63,17 @@
     font-size: 15px;
     letter-spacing: 1px;
     text-decoration: none;
-    color: #000531;
+    color: #1b2e10;
     font-weight: 700;
     text-transform: uppercase;
 }
 div#cssmenu ul li.active> a {
-    color: #ffb400;
+    background-color: rgb(88, 150, 50);
+    border-radius:10%;
+    color: #ffffff;
 }
 #cssmenu>ul>li:hover>a {
-    color: #000531;
+    color: #1b2e10;
 }
 
 #cssmenu>ul>li.has-sub>a {
@@ -85,7 +87,7 @@ div#cssmenu ul li.active> a {
     width: 8px;
     height: 2px;
     display: block;
-    background: #000531;
+    background: #1b2e10;
     content: '';
 }
 
@@ -96,7 +98,7 @@ div#cssmenu ul li.active> a {
     display: block;
     width: 2px;
     height: 8px;
-    background: #000531;
+    background: #1b2e10;
     content: '';
     -webkit-transition: all .25s ease;
     -moz-transition: all .25s ease;
@@ -160,11 +162,11 @@ div#cssmenu ul li.active> a {
     text-decoration: none;
     color: #dddddd;
     font-weight: 700;
-    background: #000531;
+    background: #1b2e10;
     transition: .6s
 }
 #cssmenu ul ul li a:hover{
-    background: #ffa100;
+    background: #589632;
     color: #fff
 }
 #cssmenu ul ul li:last-child>a,
@@ -261,7 +263,7 @@ div#cssmenu ul li.active> a {
 }
 
 #cssmenu.small-screen ul ul li a {
-  color: #000531;
+  color: #1b2e10;
   background: none;
   text-transform: uppercase;
   font-weight: 700;
@@ -270,7 +272,7 @@ div#cssmenu ul li.active> a {
 
 #cssmenu.small-screen ul ul li:hover>a,
 #cssmenu.small-screen ul ul li.active>a {
-    color: #000531;
+    color: #1b2e10;
 }
 
 #cssmenu.small-screen ul ul,
@@ -293,7 +295,7 @@ div#cssmenu ul li.active> a {
 #cssmenu.small-screen #menu-button {
     display: block;
     padding: 17px;
-    color: #000531;
+    color: #1b2e10;
     cursor: pointer;
     font-size: 12px;
     text-transform: uppercase;
@@ -307,8 +309,8 @@ div#cssmenu ul li.active> a {
     display: block;
     height: 8px;
     width: 20px;
-    border-top: 2px solid #000531;
-    border-bottom: 2px solid #000531;
+    border-top: 2px solid #1b2e10;
+    border-bottom: 2px solid #1b2e10;
     content: '';
 }
 
@@ -319,7 +321,7 @@ div#cssmenu ul li.active> a {
     display: block;
     height: 2px;
     width: 20px;
-    background: #000531;
+    background: #1b2e10;
     content: '';
 }
 
@@ -328,7 +330,7 @@ div#cssmenu ul li.active> a {
     border: 0;
     height: 2px;
     width: 15px;
-    background: #000531;
+    background: #1b2e10;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -338,7 +340,7 @@ div#cssmenu ul li.active> a {
 
 #cssmenu.small-screen #menu-button.menu-opened:before {
     top: 23px;
-    background: #000531;
+    background: #1b2e10;
     width: 15px;
     -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
@@ -360,7 +362,7 @@ div#cssmenu ul li.active> a {
 }
 
 #cssmenu.small-screen .submenu-button.submenu-opened {
-    background: #000531;
+    background: #1b2e10;
 }
 
 #cssmenu.small-screen ul ul .submenu-button {
@@ -375,7 +377,7 @@ div#cssmenu ul li.active> a {
     width: 8px;
     height: 2px;
     display: block;
-    background: #000531;
+    background: #1b2e10;
     content: '';
 }
 
@@ -395,7 +397,7 @@ div#cssmenu ul li.active> a {
     display: block;
     width: 2px;
     height: 8px;
-    background: #000531;
+    background: #1b2e10;
     content: '';
 }
 

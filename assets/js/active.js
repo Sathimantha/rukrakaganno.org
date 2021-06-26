@@ -206,11 +206,11 @@
     // 3. Style a DIV and chage cursor color:
 
     $("body").niceScroll({
-        cursorcolor: "#ffa100",
+        cursorcolor: "#3d6624",
         cursorwidth: '10px',
         zindex: 5,
         scrollspeed: 20,
-        cursorborder: '1px solid #ffa100'
+        cursorborder: '1px solid #3d6624'
     });
 
     if ($.fn.isotope) {

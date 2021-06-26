@@ -20,7 +20,7 @@ section.blog-area.blogbg.blog-header.section-padding {
 }
 
 .blog-thumb .date span {
-    background-color: #ffa100;
+    background-color: #589632;
     display: block;
     color: #fff;
 }
@@ -31,7 +31,7 @@ section.blog-area.blogbg.blog-header.section-padding {
 .blog-thumb .date h4 {
     margin-bottom: 0;
     font-size: 18px;
-    color: #000531;
+    color: #3d6624;
     font-weight: 700;
     line-height: 30px;
     text-transform: capitalize;
@@ -40,7 +40,7 @@ section.blog-area.blogbg.blog-header.section-padding {
     width: 50px;
     height: 50px;
     display: inline-block;
-    background: #ffa100;
+    background: #589632;
     line-height: 50px;
     border-radius: 50px;
     color: #fff;
@@ -48,6 +48,6 @@ section.blog-area.blogbg.blog-header.section-padding {
     margin-top: 30px;
 }
 .dream-quote-text a.videopopup:hover{
-    background: #000531;
-    color: #ffa100
+    background: #3d6624;
+    color: #589632
 }
