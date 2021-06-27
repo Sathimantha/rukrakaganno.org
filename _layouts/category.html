@@ -15,7 +15,7 @@ layout: default
                     </div>
                     <div class="blog-title">
                         <div class="date">
-                            <h4>30 <span>jan</span></h4>
+                            <h4>{{post.date | date: "%d"}} <span>{{post.date | date: "%b"}}</span></h4>
                         </div>
                         <div class="blog-desc">
                             <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
