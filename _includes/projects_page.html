@@ -1,110 +1,34 @@
-<section class="recent-work section-padding">
+<section class="blog-area section-padding">
     <div class="container">
-        <h1>Our Projects</h1>
         <div class="row">
-            <div class="col-md-12">
-                <div class="project-nav">
-                    <ul>
-                        <li class="active" data-filter="*">All Projects</li>
-                        <li data-filter=".engineering">Engineering  &amp; Industry</li>
-                        <li data-filter=".agriculture">Agriculture</li>
-                        <li data-filter=".software">Software &amp; IT</li>
-                        <li data-filter=".food">Food</li>
-                        <li data-filter=".mining">Mining &amp; Earth Resources</li>
-                        <li data-filter=".research">Research</li>
-                    </ul>
+            <div class="col-md-12 text-center">
+                <div class="section-title">
+                    <h2>Projects</h2>
+                    <p>Latest Updated</p>
                 </div>
             </div>
         </div>
-        <div class="row projectactive">
-            <div class="col-md-4 col-lg-3 agriculture">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/floriculture.jpg" alt=""></a>
+        <div class="row blog-slider-active">
+           {% for blog in site.posts %}{% if blog.categories[0]=="projects"%}
+            <div class="col-md-4">
+                <div class="single-blog">
+                    <div class="blog-thumb">
+                        <a href="{{blog.url}}"><img src="{{blog.image}}" alt="{{blog.title}}"></a>
                     </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Cut Flowers & Foliage</h4></a>
-                        <p>Empowering the Sri Lanka farmers with latest technology and financial assistance when needed to produce the best Cut Flowers and Foliage for export.</p>
+                    <div class="blog-title">
+                        <div class="date">
+                            <h4>{{blog.date | date: "%d"}} <span>{{blog.date | date: "%b"}}</span></h4>
+                        </div>
+                        <div class="blog-desc">
+                            <a href="{{blog.url}}"><h3>{{blog.title | truncate: 50}}</h3></a>
+                            <p>{{blog.excerpt}}</p>
+                        </div>
                     </div>
+                    <a href="{{blog.url}}" class="read-more">Read more</a>
                 </div>
             </div>
-            <div class="col-md-4 col-lg-3 mining engineering">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/quartz-cluster.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Quartz Mining and Refining</h4></a>
-                        <p>Manufacturer and supplier of premium quality Quartz Powder and Quartz Grits at competitive prices.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 food agriculture">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/spices.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Spices and Agri Product Processing</h4></a>
-                        <p>Spices and other agricultural produce right from authentic sources.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 engineering research">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/chemical.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Chemical Refining</h4></a>
-                        <p>Leader in briging cutting edge engineering technology to old industries and boosting their productivity in orders of magnitude. </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 software">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/printstation.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>PrintStation.lk</h4></a>
-                        <p>Coming soon...</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 engineering research">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/cnc.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4> CNC / Laser Prototyping</h4></a>
-                        <p>In answering the ‘why choose us’, I’ve been honest about what we’re about.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 engineering">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/jewellery.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Jewellery Design, Manufacturing and Retail</h4></a>
-                        <p>Our fruitful partnership with jewellery manufacturers & suppliers in Sri Lanka that meet the highest international standards. </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 research">
-                <div class="single-project">
-                    <div class="project-thumb">
-                        <a href="#"><img src="{{site.baseurl}}/assets/img/projects/stockmarket.jpg" alt=""></a>
-                    </div>
-                    <div class="project-desc">
-                        <a href="#"><h4>Stockmarket Investments</h4></a>
-                        <p>To produce the efficient frontier in portfolio investments.</p>
-                    </div>
-                </div>
-            </div>
+            {% endif%}
+            {% endfor %}
         </div>
     </div>
 </section>

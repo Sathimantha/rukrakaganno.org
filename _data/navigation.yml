@@ -3,10 +3,10 @@
 - text: Home
   url: /
 - text: About
-  url: /pages/about
+  url: /pages/about/
 - text: Blog
   url: /pages/blog/
 - text: Projects
   url: /tag/projects/
 - text: Contact Us
-  url: /pages/contact
+  url: /pages/contact/
