@@ -8,5 +8,7 @@
   url: /pages/blog/
 - text: Projects
   url: /tag/projects/
+- text: Publications
+  url: /tag/publications/
 - text: Contact Us
   url: /pages/contact/
