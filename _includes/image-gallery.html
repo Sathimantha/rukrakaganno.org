@@ -1,40 +1,66 @@
 <style>
-    .image-gallery {
-        overflow: auto;
-        margin-left: -1% !important;
-    }
-
-    .image-gallery li {
-        float: left;
-        display: block;
-        margin: 0 0 1% 1%;
-        width: 19%;
-    }
-
-    .image-gallery li a {
-        text-align: center;
-        text-decoration: none !important;
-        color: #777;
-    }
-
-    .image-gallery li a span {
-        display: block;
-        text-overflow: ellipsis;
-        overflow: hidden;
-        white-space: nowrap;
-        padding: 3px 0;
-    }
-
-    .image-gallery li a img {
-        width: 100%;
-        display: block;
+    .cssbox {
+        padding: 1%;
     }
 </style>
+<section class="blog-area blogbg blog-header section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="section-title">
+                    <h3>Gallery</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
 
-<ul class="image-gallery">{% for file in site.static_files %}{% if file.path contains include.folder %}{% if
-    file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}{% assign
-    filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}<li>
-        <a href="{{ file.path | relative_url }}" title="{{ filename }}"><img
-                src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square"
-                alt="{{ filename }}" title="{{ filename }}" /><span>{{ filename }}</span></a></li>{% endif %}{% endif
-    %}{% endfor %}</ul>
+            <div class="cssbox">
+                <a id="image1" href="#image1">
+                    <img class="cssbox_thumb" src="assets/gallery/thumbs/t1.jpg">
+                    <span class="cssbox_full">
+                        <img src="assets/gallery/1.jpg">
+                    </span>
+                </a>
+                <a class="cssbox_close" href="#void"></a>
+                <a class="cssbox_next" href="#image2">&gt;</a>
+            </div>
+
+
+            <div class="cssbox">
+                <a id="image2" href="#image2">
+                    <img class="cssbox_thumb" src="assets/gallery/thumbs/t2.jpg">
+                    <span class="cssbox_full">
+                        <img src="assets/gallery/2.jpg">
+                    </span>
+                </a>
+                <a class="cssbox_close" href="#void"></a>
+                <a class="cssbox_prev" href="#image1">&lt;</a>
+                <a class="cssbox_next" href="#image3">&gt;</a>
+            </div>
+
+            <div class="cssbox">
+                <a id="image3" href="#image3">
+                    <img class="cssbox_thumb" src="assets/gallery/thumbs/t3.jpg">
+                    <span class="cssbox_full">
+                        <img src="assets/gallery/3.jpg">
+                    </span>
+                </a>
+                <a class="cssbox_close" href="#void"></a>
+                <a class="cssbox_prev" href="#image2">&lt;</a>
+                <a class="cssbox_next" href="#image4">&gt;</a>
+            </div>
+
+            <div class="cssbox">
+                <a id="image4" href="#image4">
+                    <img class="cssbox_thumb" src="assets/gallery/thumbs/t4.jpg">
+                    <span class="cssbox_full">
+                        <img src="assets/gallery/4.jpg">
+                    </span>
+                </a>
+                <a class="cssbox_close" href="#void"></a>
+                <a class="cssbox_prev" href="#image3">&lt;</a>
+            </div>
+
+        </div>
+    </div>
+</section>
