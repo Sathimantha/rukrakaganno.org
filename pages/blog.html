@@ -1,13 +1,21 @@
 ---
 layout: default
 title: Blog
-pagination: 
-  enabled: true
+pagination:
+enabled: true
 permalink: "/pages/blog"
 ---
 
 {% include page_header.html %}
 <!-- start blog section -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-11">
+            <div class="alert alert-success" role="alert" style="margin:5px">✍ You too can contribute articles to our
+                blog. Email us at <b>rukrakaganno09@gmail.com</b> for more info.</div>
+        </div>
+    </div>
+</div>
 <section class="blog-list-area section-padding">
     <div class="container">
         <div class="row">
@@ -24,11 +32,14 @@ permalink: "/pages/blog"
                         </div>
                     </div>
                     <div class="blog-title">
-                        <a href="{{blog.url}}"><h2>{{blog.title}}</h2></a>
-                            <div class="news-meta">
+                        <a href="{{blog.url}}">
+                            <h2>{{blog.title}}</h2>
+                        </a>
+                        <div class="news-meta">
                             <a href="#"><span class="fa fa-user"></span>By {{blog.author}}</a>
                             <a href="#"><span class="fa fa-tags"></span>Tags {{blog | tags | replace: ",","|"}}</a>
-                            <a href="{{blog.url}}/#disqus_thread" data-disqus-identifier="{{blog.id}}"><span class="fa fa-comment-o"></span>0 Comments</a>
+                            <a href="{{blog.url}}/#disqus_thread" data-disqus-identifier="{{blog.id}}"><span
+                                    class="fa fa-comment-o"></span>0 Comments</a>
                         </div>
                     </div>
                     <div class="blog-excerpt">
@@ -41,7 +52,7 @@ permalink: "/pages/blog"
                 {% include pagination.html %}
             </div>
             <div class="col-md-4">
-             {% include sidebar.html %}
+                {% include sidebar.html %}
             </div>
         </div>
     </div>
