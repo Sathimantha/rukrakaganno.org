@@ -13,6 +13,7 @@ permalink: "/pages/blog"
         <div class="row">
             <div class="col-md-8">
                 {% for blog in paginator.posts %}
+                {% unless blog.tags contains "publications" or blog.categories contains "publications" %}
                 <div class="single-blog list-blog-item">
                     <div class="blog-lrg-thumb">
                         <a href="{{blog.url}}"><img src="{{blog.image}}" alt="{{blog.title}}"></a>
@@ -35,6 +36,7 @@ permalink: "/pages/blog"
                     </div>
                     <a href="{{blog.url}}" class="read-more">Read More</a>
                 </div>
+                {% endunless %}
                 {% endfor %}
                 {% include pagination.html %}
             </div>
