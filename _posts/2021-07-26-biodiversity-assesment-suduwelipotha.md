@@ -6,7 +6,7 @@ image: "/assets/img/blog/baseline-biodiversity-assessment-suduwelipotha1.jpg"
 tags: suduwelipotha publications
 categories: [publications]
 author: "Ruk"
-excerpt: "baseline-biodiversity-assessment"
+excerpt: "Baseline Biodiversity Assessment"
 ---
 # Baseline Biodiversity Assessment of the Proposed Restoration Site in Suduwelipotha, Weddagala
 
