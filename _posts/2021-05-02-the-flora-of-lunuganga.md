@@ -2,7 +2,7 @@
 layout: post
 title: "The Flora of Lunuganga (Ruk Rakaganno, tree talk/2nd May 2021)"
 date: 2021-05-02 11:18:00 +0530
-image: "/assets/img/slider/slider3.jpg"
+image: "/assets/img/blog/flora-of-lanuganga.jpg"
 tags: tree-talk youtube videos
 categories: [tree-talk]
 author: "Ruk"
