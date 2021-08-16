@@ -2,7 +2,32 @@
 layout: default
 title: Contact
 ---
-{% include page_header.html %}
+<section class="page-header-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="paget-title">
+                    <h2 class="text-capitalize">{{page.title}}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="breadcrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 text-left">
+                <ol class="breadcrumb">
+                    <li><a href="{{site.url}}">Home &gt; </a></li>
+                    <li class="active">{{page.title}}</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 <!-- start contact us section -->
 {% include contact_us.html %}
 <!-- end of contact us section -->
