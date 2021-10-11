@@ -8,10 +8,9 @@ sathimantha:
     image: "/assets/img/authors/genericM.png"
 
 
-ruk:
+Ruk:
     name: Ruk Rakaganno
-    email: {{site.data.siteVars.email}}
-    facebook: {{site.data.siteVars.facebookPage}}
+    email: rukrakaganno09@gmail.com
     bio: "Ruk Rakaganno is a volunteer based, non-governmental organization founded in 1975 implementing hands-on projects to conserve nature and advocate to protect and conserve the environment."
     image: "/assets/img/authors/ruk-logo.png"
 
