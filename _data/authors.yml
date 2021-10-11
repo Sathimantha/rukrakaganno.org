@@ -14,3 +14,7 @@ ruk:
     facebook: {{site.data.siteVars.facebookPage}}
     bio: "Ruk Rakaganno is a volunteer based, non-governmental organization founded in 1975 implementing hands-on projects to conserve nature and advocate to protect and conserve the environment."
     image: "/assets/img/authors/ruk-logo.png"
+
+
+tanya:
+    name: Ms Tanya Perera
