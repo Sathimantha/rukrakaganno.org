@@ -5,7 +5,7 @@ sathimantha:
     facebook: https://www.facebook.com/sathimantha/
     github: https://github.com/Sathimantha
     bio: "Sathimantha Malalasekera."
-    image: "/assets/img/authors/sathimantha.jpeg"
+    image: "/assets/img/authors/genericM.png"
 
 
 ruk:
@@ -18,3 +18,4 @@ ruk:
 
 tanya:
     name: Ms Tanya Perera
+    image: "/assets/img/authors/genericF.png"
