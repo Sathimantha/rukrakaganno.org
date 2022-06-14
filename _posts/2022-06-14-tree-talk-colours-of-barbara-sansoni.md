@@ -11,6 +11,8 @@ excerpt: "Stay tuned for our Upcoming tree talk - Colours of Babara Sansoni on 1
 # Upcoming tree talk - Colours of Babara Sansoni on 19th June 6PM onwards via Zoom
 
 
+### Colours of Babara Sansoni on 19th June 6PM onwards (Sri Lanka - Colombo time GMT+05:30) Join us via Zoom
+
 #### Zoom link - <a href="https://us06web.zoom.us/j/81684513524?pwd=QlB5UXpLT1lvVTFhOFFQbVNKVmdnUT09">https://us06web.zoom.us/j/81684513524?pwd=QlB5UXpLT1lvVTFhOFFQbVNKVmdnUT09</a>
 
 #### Passcode - 073395
