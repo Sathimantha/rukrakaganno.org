@@ -8,7 +8,7 @@ categories: [tree-talk]
 author: "Ruk"
 excerpt: "'Colours of Barbara Sansoni' By C. Anjalendran. Tree-tak on 19th June 2022 via Zoom"
 ---
-# 'Biocurrency; harnessing the unrealized value of trees' (Ruk Rakaganno, tree talk/5th December 2021)
+# 'Colours of Barbara Sansoni' By C. Anjalendran. (Ruk Rakaganno, tree talk/19th June 2022)
 
 "Colours of Barbara Sansoni" By C. Anjalendran. Tree-tak on 19th June 2022 via Zoom
 
