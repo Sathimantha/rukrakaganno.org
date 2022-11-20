@@ -2,7 +2,7 @@
 layout: post
 title: "'Are birds singing duller songs' (Ruk Rakaganno, tree talk/20th November 2022)"
 date: 2022-11-20 08:00:00 +0530
-image: "/assets/img/blog/are-birds-singing-duller-songs.jpg"
+image: "/assets/img/blog/are-birds-singing-duller-songs.jpeg"
 tags: tree-talk youtube videos
 categories: [tree-talk]
 author: "Ruk"
