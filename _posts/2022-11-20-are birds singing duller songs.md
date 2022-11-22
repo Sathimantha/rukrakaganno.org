@@ -8,7 +8,7 @@ categories: [tree-talk]
 author: "Ruk"
 excerpt: "Recording of talk by Prof. Mayuri Wijesinghe. Tree talk on 20th November 2022 via Zoom."
 ---
-# 'Biocurrency; harnessing the unrealized value of trees' (Ruk Rakaganno, tree talk/5th December 2021)
+<!--# 'Biocurrency; harnessing the unrealized value of trees' (Ruk Rakaganno, tree talk/5th December 2021)-->
 
 Recording of talk by Prof. Mayuri Wijesinghe. Tree talk on 20th November 2022 via Zoom.
 
