@@ -21,3 +21,10 @@ Webinar ID: 884 6966 6273
 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R70iij5fGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><br>
+> I listened to it today and found Mayuri Wijenshinge's talk very interesting.
+> You have organized it well as a tribute to Popham with his relatives joining as well.
+> Also noted that the beautiful soothing piece of classical music is now becoming the signature tune for Ruk Rakaganno.
+> With best wishes,
+> Yours sincerely,
+> - Prof L.K. Senaratna
