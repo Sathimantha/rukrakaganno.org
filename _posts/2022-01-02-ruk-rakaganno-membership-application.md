@@ -14,3 +14,4 @@ excerpt: "Ruk Rakaganno Membership Application Form"
 <a href="assets/publications/Application Form - Membership.pdf" target="_blank" class="fa fa-download" download> Download Here</a>
 </h3>
 
+## Please fill the form and forward it to our email. Please don't hesitate to contact us for any inquiries or clarifications.
