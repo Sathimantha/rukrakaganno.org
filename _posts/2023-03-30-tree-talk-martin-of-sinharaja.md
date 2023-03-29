@@ -9,6 +9,7 @@ author: "Ruk"
 excerpt: "Recording of talk 'Martin of Sinharaja', honoring Martin Wijesinghe, Sentinel of Sinharaja"
 ---
 
+# Martin of Sinharaja (Ruk Rakaganno, tree talk/19th March 2023)
 
 Recording of talk "Martin of Sinharaja", honoring Martin Wijesinghe, Sentinel of Sinharaja,
 Conducted by Prof. Savithri Gunatileka, Prof. Nimal Gunatileka, Prof. Sarath Kotagama and Prof. Siril Wijesundera.
