@@ -2,7 +2,7 @@
 layout: post
 title: "Colours of Barbara Sansoni By C. Anjalendran."
 date: 2022-06-20 08:00:00 +0530
-image: "/assets/gallery/0.jpg"
+image: "/assets/img/blog/colours-of-barbara-sansoni.jpg"
 tags: tree-talk youtube videos
 categories: [tree-talk]
 author: "Ruk"
