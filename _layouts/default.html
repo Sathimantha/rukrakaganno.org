@@ -19,7 +19,7 @@
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/responsive.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/cssbox.css">
 </head>
-
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QXH5CZJDVC"></script>
 <script>
@@ -53,6 +53,18 @@
   <script src="{{site.baseurl}}/assets/js/gmap.js"></script>
 
   <script src="{{site.baseurl}}/assets/js/active.js"></script>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 
 </html>
