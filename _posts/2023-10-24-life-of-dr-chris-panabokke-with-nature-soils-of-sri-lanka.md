@@ -11,6 +11,8 @@ author: Ruk
 ---
 ## Join us on our Tree-Talk on 29th October 2023 6PM onwards
 
-Online Guest Lecture by Dr Bhathiya Sumithraarachchi (former Director of Botanic Gardens of Sri Lanka) on "Life of Dr Chris Panabokke with Nature & Soils of Sri Lanka"
+Recording of Guest Lecture by Dr Bhathiya Sumithraarachchi (former Director of Botanic Gardens of Sri Lanka) on "Life of Dr Chris Panabokke with Nature & Soils of Sri Lanka".
 
-Join Zoom Meeting [https://us02web.zoom.us/j/85361636189](<Join Zoom Meeting https://us02web.zoom.us/j/85361636189 Meeting ID: 853 6163 6189>) Meeting ID: 853 6163 6189
+Held on the 29th of October 2023.
+
+<iframe width="560" height="315" src="https://youtu.be/wtHwCM-ROCA?si=jUjWnftet25ExwQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
