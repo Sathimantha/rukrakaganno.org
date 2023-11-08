@@ -8,6 +8,12 @@ tags: ""
 excerpt: The utilization of Bees for Sustainable Development
 author: Ruk
 ---
+# Dankombuwa Bee Keeping Project
+
+> The utilization of Bees for Sustainable Development.
+
+
+
 ## Introduction
 
 An effective way of conserving and enhancing a forest is to educate the masses living in the periphery of it in understanding the utilization of  the natural surrounding  for economic gain. There are several eco friendly methods available at present and “Beekeeping for Honey Production” can be considered as a simple and effective one. 
@@ -16,13 +22,9 @@ For any new sustainable project to be effectively accepted by the people, certai
 
 However, traditionally Sri Lanka had no culture of bee keeping and the household requirements of honey is mainly supplied through 'honey hunting' facilitated by  the destruction of hives, with drastic environmental impacts. Development of bee keeping for honey production in the home gardens among communities that are directly associated with the forest is perhaps the most effective way of protecting and enhancing the sustainability of the community and the forest simultaneously. 
 
-
-
 ## Location
 
 Post an initial survey, the village of Dankombuwa situated in the rich forests of Deraniyagala in the Sabaragamuwa province was selected as suitable location due to the abundance of  fruit/rubber trees and the luscious vegetation in the area. The survey also confirmed the presence of Bees in the environment which was a prerequisite. 
-
-
 
 ## Engagement
 
