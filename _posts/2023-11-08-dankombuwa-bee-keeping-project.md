@@ -10,9 +10,7 @@ author: Ruk
 ---
 # Dankombuwa Bee Keeping Project
 
-> The utilization of Bees for Sustainable Development.
-
-
+> Ruk Rakaganno is delighted to partner Deutsche Bank to initiate this project. 
 
 ## Introduction
 
