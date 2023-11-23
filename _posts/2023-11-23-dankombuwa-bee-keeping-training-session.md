@@ -4,11 +4,11 @@ title: Dankombuwa Bee Keeping - Training Session
 date: 2023-11-04 11:47:14 +0530
 categories: projects
 image: /assets/img/blog/whatsapp-image-2023-11-04-at-17.34.50-1-.jpeg
-tags: "Dankombuwa Bee-Keeping "
+tags: "Projects Dankombuwa Bee-Keeping "
+categories: [projects]
 excerpt: "Beekeeping training: practical hive transfer, highlighting the
   importance of bees. Safety equipment provided. Next step: Youth awareness
   event on 24 January."
-categories: [projects]
 author: Ruk
 ---
 # Dankombuwa Bee Keeping - Training Session
