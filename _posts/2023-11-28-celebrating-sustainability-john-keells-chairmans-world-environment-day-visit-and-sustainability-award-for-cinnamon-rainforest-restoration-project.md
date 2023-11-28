@@ -4,8 +4,7 @@ title: "Celebrating Sustainability: John Keells Chairman's World Environment Day
   Visit and Sustainability Award for Cinnamon Rainforest Restoration Project"
 date: 2023-11-28 12:08:54 +0530
 image: /assets/img/blog/photo-2023-06-05-22-58-13.jpg
-tags: '"Cinnamon Rainforest Restoration Project" "John Keells Foundation"
-  "sustainability award" "reforestation" '
+tags: reforestation sustainability award
 excerpt: "John Keells Chairman's Award acknowledges the Cinnamon Rainforest
   Restoration Project's sustainability efforts and his previous visit to the
   reforestation site on World Environment Day. "
