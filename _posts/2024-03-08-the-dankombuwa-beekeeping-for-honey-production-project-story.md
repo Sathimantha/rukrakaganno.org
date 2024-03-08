@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dankombuwa Beekeeping for Honey Production "
+title: The Dankombuwa Beekeeping for Honey Production - Project Story
 date: 2024-03-08 04:38:46 +0530
 categories: projects
 image: /assets/img/blog/e01af637-d086-40b5-8344-8948c4224732.jpg
@@ -10,15 +10,13 @@ excerpt: "The Beekeeping for Honey Production Project by Ruk Rakaganno,
   sustainable livelihoods and forest conservation. "
 author: Ruk
 ---
-# The Dankombuwa Beekeeping for Honey Production
+# The Dankombuwa Beekeeping for Honey Production - Project Story
 
 Ruk Rakaganno, the tree society of Sri Lanka is a non profit, volunteer based, non-governmental organisation founded in 1975 during an era in which people had started to destroy forests extensively and conservation was not a major concern in the society. The only other functioning environmental non-governmental society was the Wild Life and Nature Protection Society, whose main concern was to protect wildlife. Ruk Rakaganno  was initiated to  mainly concentrate on preserving trees and forests, which are home to a great variety of plants and animals.
 
 The organisation counted  upon its founding members, many illustrious and well known personalities in society in that era and was an advocacy organisation for the environment.
 
 Over the years many significant projects were embarked upon , such as; protecting the Sinharaja forest from being felled by a Canadian Company for timber,  conserving the Forest and Water resources of the Soragune/Weli Oya region  to save the forests and grassland/water resources, tree planting under the school awareness programme, establishing a women’s environment center  and many other environmentally related projects. The organisation’ current  project is the Ecological restoration of denuded forest of 59 acres in the buffer zone of the Sinharaja Rain Forest which is funded by the John Keells Foundation. The team  has planted 19,000 indigenous wet zone forest plants in 70 diverse species. The said project  was recently awarded the JKH Chairman's award for sustainability.  Please refer to the website www.rukrakaganno.org  for more information on the organisation.
-
-![](/assets/img/blog/image_6483441-1-.jpg)
 
 **The Dankombuwa Beekeeping for Honey Production Project** was an initiative of the organisation to conserve and enhance the environment by natural means and was privileged to join hands with Deutsche Bank who kindly came forward as the project funders.
 
