@@ -9,9 +9,7 @@ tags: "projects reforestation sustainability Singharaja "
 excerpt: Hanne Lund Madsen, Sustainability Director, Forward Advice, Denmark
 author: Ruk
 ---
-# Ruk Rakaganno – The Tree Society of Sri Lanka
-
-# Deserving recognition and support
+# Ruk Rakaganno – The Tree Society of Sri Lanka Deserving Recognition and Support
 
 ##### *Hanne Lund Madsen, Sustainability Director, Forward Advice, Denmark*
 
