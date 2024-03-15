@@ -13,7 +13,7 @@ author: Ruk
 
 # Deserving recognition and support
 
-### *Hanne Lund Madsen, Sustainability Director, Forward Advice, Denmark*
+##### *Hanne Lund Madsen, Sustainability Director, Forward Advice, Denmark*
 
 Sri Lanka was recently awarded international recognition at the United Nations Environmental Assembly, Nairobi, for its flagship initiative to restore mangroves in Puttalam in northwest region of Sri Lanka.
 
