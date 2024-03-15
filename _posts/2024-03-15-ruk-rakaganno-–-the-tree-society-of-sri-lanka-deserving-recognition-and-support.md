@@ -9,7 +9,7 @@ tags: "projects reforestation sustainability Singharaja "
 excerpt: Hanne Lund Madsen, Sustainability Director, Forward Advice, Denmark
 author: Ruk
 ---
-# Ruk Rakaganno – The Tree Society of Sri Lanka 
+# Ruk Rakaganno – The Tree Society of Sri Lanka
 
 # Deserving recognition and support
 
@@ -27,19 +27,21 @@ During my visit I was reminded of how much it takes to bring back eco-balance! T
 
 The exemplary features of the project are: 
 
-* a civic driven initiative that has endured to result in significant changes
-* engaging key stakeholders including the Forest Department, the private sector, the local communities, and the university of Colombo
-* fostering community ownership using the expertise to establish satellite forest plant nurseries and involvement of the community to produce the nursery plants and to establish analog/border forestry suitable for income-generation
-* an educational approach investing in sharing knowledge about the complexities of the rainforest both to the local communities and to the public through Walking Tours at the reforestation project
-* a scientific approach both in designing the plantation strategy (stratification plan) and in ongoing monitoring of the progress of the project
-* educating the school children of the neighborhood of the value of ecological re forestation
-* a fundraising strategy ensuring the financial support from John Keells Holdings as part of their Corporate Social Responsibility Programme 
+•	a civic driven initiative that has endured to result in significant changes
 
+•	engaging key stakeholders including the Forest Department, the private sector, the local communities, and the university of Colombo
 
+•	fostering community ownership using the expertise to establish satellite forest plant nurseries and involvement of the community to produce the nursery plants and to establish analog/border forestry suitable for income-generation
+
+•	an educational approach investing in sharing knowledge about the complexities of the rainforest both to the local communities and to the public through Walking Tours at the reforestation project
+
+•	a scientific approach both in designing the plantation strategy (stratification plan) and in ongoing monitoring of the progress of the project
+
+•	educating the school children of the neighborhood of the value of ecological re forestation
+
+•	a fundraising strategy ensuring the financial support from John Kells Holdings as part of their Corporate Social Responsibility Programme
 
 Long term commitment and support is needed. 
-
-
 
 It is evident that the project has performed well during the four years and that a long-term commitment is needed- especially as it takes approximately over 15 years or more before the planted rainforest can endure on its own. Ruk Rakaganno has applied to the Forest Department for approval of extension of the project and continued support is also needed from the other involved stakeholders to make this young rainforest survive.
 
