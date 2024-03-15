@@ -9,6 +9,8 @@ excerpt: "John Keells Chairman's Award acknowledges the Cinnamon Rainforest
   reforestation site on World Environment Day. "
 author: Ruk
 ---
+# Sustainable Celebration: Cinnamon Rainforest Restoration Project
+
 To commemorate World Environment Day, i.e. 5 June 2023, the Chairman of John Keells Holdings Kishan Balendra visited the RukRakaganno reforestation site in Suduwalipotha. Subsequently, this project won the Chairman's Award for Sustainability, as sent to us by the Head of the John Keells Foundation, Carmaline Jayasuriya:
 
 "Happy to share the good news that the Cinnamon Rainforest Restoration Project was the recipient of a Chairperson's Award for Sustainability on Friday. Would like to applaud and acknowledge the efforts of you and your team and all involved."
