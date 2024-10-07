@@ -4,12 +4,14 @@ title: Introducing The Smart Bee Colony Monitoring System
 date: 2024-10-07 01:24:00 +0530
 categories: projects
 image: /assets/img/blog/whatsapp-image-2024-10-06-at-12.59.32.jpeg
-tags: "projects beekeeping dambulla sustainability "
-excerpt: "Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for
-  the first time in Sri Lanka "
+tags: projects beekeeping Dambulla sustainability
+excerpt: Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for
+  the first time in Sri Lanka
 author: Ruk
 ---
-> Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for the first time in Sri Lanka 
+# Introducing The Smart Bee Colony Monitoring System
+
+**Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for the first time in Sri Lanka **
 
 In a world where bees silently drive our ecosystems, a groundbreaking initiative is taking flight in Sri Lanka to safeguard these tiny, yet vital pollinators. 
 
@@ -29,4 +31,4 @@ This innovation initiated by Ruk Rakaganno holds the promise of ensuring the lon
 
 ![](/assets/img/blog/whatsapp-image-2024-10-06-at-13.07.45-1-.jpeg)
 
-*The Smart Bee Box team posing in front of the installation. Kneeling in front are the two designers Tharindu Ranasinghe and Akila Pieris in the presence of the President of Ruk Rakaganno and Umanda Jayatilake of the John Keells Foundation with Rohan Jayasinghe Director Projects of RR , Anura Jasinghe Bee Consultant for RR and Chanaka the Manager of the Arboretum standing round .*
+*The Smart Bee Box team posing in front of the installation. Kneeling in front are the two designers Tharindu Ranasinghe and Akila Pieris in the presence of the President of Ruk Rakaganno and Umanda Jayatilake of the John Keells Foundation with Rohan Jayasinghe Director Projects of RR , Anura Jasinghe Bee Consultant for RR and Chanaka the Manager of the Arboretum standing round.*
