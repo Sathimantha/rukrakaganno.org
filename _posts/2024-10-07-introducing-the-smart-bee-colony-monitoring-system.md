@@ -11,7 +11,7 @@ author: Ruk
 ---
 # Introducing The Smart Bee Colony Monitoring System
 
-**Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for the first time in Sri Lanka **
+**Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for the first time in Sri Lanka.**
 
 In a world where bees silently drive our ecosystems, a groundbreaking initiative is taking flight in Sri Lanka to safeguard these tiny, yet vital pollinators. 
 
