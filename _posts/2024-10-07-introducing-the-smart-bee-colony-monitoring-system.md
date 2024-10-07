@@ -3,7 +3,7 @@ layout: post
 title: Introducing The Smart Bee Colony Monitoring System
 date: 2024-10-07 01:47:00 +0530
 categories: projects
-image: /assets/img/blog/whatsapp-image-2024-10-06-at-12.59.32-1-.jpeg
+image: /assets/img/blog/whatsapp-image-2024-10-06-at-12.59.32.jpeg
 tags: projects beekeeping Dambulla sustainability
 excerpt: Ruk Rakaganno introduces The Smart Bee Colony Monitoring System for the
   first time in Sri Lanka
