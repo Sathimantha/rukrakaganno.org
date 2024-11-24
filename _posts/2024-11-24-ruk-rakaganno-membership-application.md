@@ -2,7 +2,7 @@
 layout: post
 title: "Ruk Rakaganno Membership Application Form"
 date: 2024-11-24 11:00:00 +0530
-image: "/assets/img/blog/Application for Membership.jpg"
+image: "/assets/img/blog/Application for Membership - 2.jpg"
 tags: publications
 categories: [publications]
 author: "Ruk"
