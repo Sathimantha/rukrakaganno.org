@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruk Rakaganno Membership Application Form"
-date: 2022-01-02 11:00:00 +0530
+date: 2024-11-24 11:00:00 +0530
 image: "/assets/img/blog/Application for Membership.jpg"
 tags: publications
 categories: [publications]
