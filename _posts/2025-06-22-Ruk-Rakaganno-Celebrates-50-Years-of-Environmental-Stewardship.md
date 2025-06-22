@@ -4,7 +4,7 @@ layout: post
 title: Ruk Rakaganno Celebrates 50 Years of Environmental Stewardship
 date: 2025-06-22 08:59:13 +0530
 categories: tree-talk
-image: /assets/img/blog/Copy of JD_05710 (1).jpg
+image: /assets/img/blog/ruk-50-celebration.jpg
 tags: tree-talk anniversary environment
 excerpt: On the evening of June 5, 2025, World Environment Day, Ruk Rakaganno marked a major milestone: its 50th anniversary!
 author: Ruk
