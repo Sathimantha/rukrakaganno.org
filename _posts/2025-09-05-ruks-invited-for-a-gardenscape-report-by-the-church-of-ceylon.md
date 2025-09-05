@@ -3,7 +3,7 @@ layout: post
 title: Ruks invited for a "Gardenscape" - Report by The Church of Ceylon
 date: 2025-09-05 10:49:00 +0530
 categories: projects
-image: img/203468682.jpg
+image: /assets/img/blog/afbeelding1.jpg
 tags: projects Church of Ceylon landscape collaboration
 excerpt: Ruk Rakaganno shaped a sustainable landscape plan for Kithu Sevana.
 author: Ruk
