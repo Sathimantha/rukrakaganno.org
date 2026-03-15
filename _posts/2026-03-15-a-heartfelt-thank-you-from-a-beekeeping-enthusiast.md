@@ -3,7 +3,7 @@ layout: post
 title: A heartfelt thank you from a beekeeping enthusiast
 date: 2026-03-15 10:25:00 +0530
 categories: projects
-image: /assets/img/blog/img_1123.jpg
+image: /assets/img/blog/img_1123-formaat-gewijzigd-naar-klein.jpeg
 tags: projects beekeeping sustainability
 excerpt: We recently received a wonderful note from a fellow beekeeping
   enthusiast who had used the Ruk Rakaganno honey extractor.
