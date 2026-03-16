@@ -2,7 +2,7 @@
 layout: post
 title: A heartfelt thank you from a beekeeping enthusiast
 date: 2026-03-15 10:25:00 +0530
-categories: projects
+categories: null
 image: /assets/img/blog/e01af637-d086-40b5-8344-8948c4224732.jpg
 tags: projects beekeeping sustainability
 excerpt: We recently received a wonderful note from a fellow beekeeping
