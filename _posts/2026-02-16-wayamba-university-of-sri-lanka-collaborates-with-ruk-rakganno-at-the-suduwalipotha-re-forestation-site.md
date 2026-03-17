@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Wayamba University of Sri Lanka Collaborates with Ruk Rakganno at the
-  Suduwalipotha Re Forestation Site
-date: 2026-02-16 12:06:00 +0530
+title: A heartfelt thank you from a beekeeping enthusiast
+date: 2026-03-17 06:04:00 +0530
 categories: projects
 image: /assets/img/blog/afbeelding1.png
 tags: projects reforestation volunteers sinharaja environmental
