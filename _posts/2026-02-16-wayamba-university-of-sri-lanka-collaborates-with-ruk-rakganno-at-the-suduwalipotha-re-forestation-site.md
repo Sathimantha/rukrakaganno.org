@@ -3,7 +3,7 @@ layout: post
 title: A heartfelt thank you from a beekeeping enthusiast
 date: 2026-03-17 06:04:00 +0530
 categories: projects
-image: /assets/img/blog/afbeelding1.png
+image: /assets/img/blog/img_1123.jpg
 tags: projects reforestation volunteers sinharaja environmental
 excerpt: A Green Step toward a Better Future
 author: Ruk
