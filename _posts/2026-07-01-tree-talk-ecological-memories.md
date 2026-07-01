@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Tree Talk - Ecological Memories "
+date: 2026-07-01 11:39:00 +0530
+categories: tree-talk
+image: /assets/img/blog/img-20260531-wa0054.jpg
+tags: "Tree Talks "
+excerpt: Rukrakaganno held an online tree talk on World Environment Day (June
+  5th) to commemorate their 50th anniversary, with 25 participants joining the
+  virtual event. The main presentation was delivered by Sanath Pera, a chartered
+  landscape architect and visual artist, who discussed his ecological art
+  practice focusing on Sri Lanka's biodiversity and the impacts of invasive
+  species on ecosystems. Sanath shared his artistic journey from landscape
+  architecture to natural history and ecological art, presenting paintings
+  depicting the life cycles of butterflies, interrelationships among bird
+  species, and the harmful effects of invasive plants such as giant mimosa and
+  galgodaka. The event included a question-and-answer session where participants
+  discussed invasive plant control methods and Sanath's art materials.
+author: Ruk
+---
+Dushy Pereira from Rukrakaganno hosted an online event to commemorate World Environment Day on June 5th, noting the coincidence that Brook Cracker Garden was formed 50 years ago in 1975.Dushy explained that Rukrakaganno had previously conducted three successful talks during COVID-19 before a hacker incident ended them, and currently has ongoing projects including reforestation at Sudwelipota and a beekeeping project at Hubbard and Lodge, both funded by Keys Hotels. The meeting was being moderated by Ayesha Ratnik, who was introduced as the moderator for the guest speaker, Sanath.
+
+Ecological Memories Lecture Presentation
+
+Ayesha introduced Sanath Pera, a Sri Lankan chartered landscape architect and visual artist, who presented a lecture titled "Ecological Memories" focusing on his practice as both an artist and landscape architect. Sanath discussed the origins of natural history art, explaining how it evolved from a scientific method for identifying and classifying species centuries ago into a form of art in the current context. The lecture highlighted two pioneers in natural history art, LeonhardFuchs and Conrad Gessner, who created significant encyclopedias in the field.
+
+Natural History vs Ecological Art
+
+Sanath discussed the differences between natural history art and ecological art, explaining that natural history art focuses on documentation, classification, and observation for scientists and naturalists, while ecological art is more experimental and addresses environmental preservation, politics, culture, and ethics. He highlighted examples of natural history artists including Leonhard and Maria Sibylla Merian, and ecological artists such as Agnes Denes, Aviva Hammani, and Reena Kallat. The discussion concluded with information about a Q&A session to follow the lecture.
+
+Ecological Art Discussion
+
+Sanath discussed ecological art, which emerged in the 1960s and focuses on activism, restoration, and social and ecological justice through various forms, including installations and performance art. He shared his personal artistic journey, including his upbringing in Kandy where he developed an early fascination with nature, and his education in landscape architecture at the University of Moratuwa. Sanathdescribed his exhibitions, including "Metamorphosis PapillinusHelenensis" which focused on butterfly life cycles and their symbolicconnection to human transitions, and "Theater of Certain Birds" whichexplored interrelationships between different species, particularly birds.
+
+Ecological Art and Conservation Discussion
+
+Sanath presented his ecological art exhibition "Theatre of Serendipers", which depicts the interrelationships between endemic birds and their habitats in Sri Lanka, including paintings of the Ceylon white-eyed endemic bird, crimson-fronted barbet, and dusky blue flycatcher. He also discussed his "Eclipse of Natives" series, which focuses on invasive species and their impact on local ecosystems, explaining how these plants entered the ecosystem via imported machinery and laboratory escapes. The discussion included questions about controlling invasive plants in Sinharaja without pesticides, with Sanath suggesting manual clearing and replacement with native species as effective methods, and Dushy sharing experiences from a reforestation project where invasive species were manually removed during dry seasons to allow indigenous species to regenerate.
+
+Tree Presentation and Events Update
+
+Amar delivered a vote of thanks to Sanath for his enlightening presentation on trees, which included beautiful illustrations and highlighted their ecological importance. Dushy announced upcoming events including tree walks at Independence Square and the Urban Arboretum, as well as a planned visit to a reforestation site in January or February. The event attracted 25 participants, with some attendees expressing disappointment about the lower turnout despite the quality of the presentation.
